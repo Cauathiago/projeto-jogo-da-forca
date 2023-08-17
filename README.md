@@ -1,7 +1,8 @@
 # JOGO-DA-FORCA
 ⚽JOGO DA FORCA COM MULTIPLAS PALAVRAS ALEATÓRIAS.
 
-<img src="https://play-lh.googleusercontent.com/qrKYuxSOYxw02klFzCTnmo-iZfiLW8GBT0SrT_8fywUgQzfhO7ZdeCuXu4LqeMeZae-c=s256-rw" align="center" width="250"> <br>
+https://github.com/Cauathiago/projeto-jokenpo/assets/116468083/23311ecb-672e-4725-a45e-3a80c422dcd9
+
 
 ## 🤖DESCRIÇÃO:
 Bem-vindo ao projeto "Jogo da Forca"! Este repositório contém uma implementação do clássico jogo da forca em Python. O jogo da forca é um passatempo popular, onde os jogadores devem adivinhar uma palavra oculta, inserindo letras em um número limitado de tentativas.
